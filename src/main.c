@@ -21,7 +21,7 @@
 //Definição dos tipos de caracteres usados para renderizar
 #define CHAO 32             //Default: 32(espaço)
 #define PERSONAGEM 43       //Default: 43(+)
-#define PONTO 36            //Default: 36($) - Alternativo: 46(.)
+#define PONTO 36            //Default: 36($)
 #define PAREDE 178          //Default: 178
 #define TRAP 83             //Default: 83(S)
 
@@ -48,7 +48,7 @@
 
 /*
     Autor do Software: Alexei Bellé Secretti
-    E-mail: alexeisecretti@hotmail.com
+    E-mail: alexeisecretti@gmail.com
 
     Versão do código: 3.0.0
     Descrição: Este software é um jogo do labirinto, onde o objetivo é coletar todos os pontos espalhados pelo mapa e evitar as armadilhas.
